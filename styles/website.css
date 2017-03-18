@@ -1,0 +1,9 @@
+h2{
+  color:blue;
+}
+p{
+  color:#f60;
+}
+p:hover{
+ color:red; 
+}
